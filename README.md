@@ -1,2 +1,2 @@
 # PythonData
-Working with database on python using tinter(Windows)
+Working with database on python using tkinter(Windows)
